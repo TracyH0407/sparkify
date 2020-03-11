@@ -11,6 +11,8 @@ To build our model, the modelling dataset was firstly transformed and normalised
 - Decision Tree Classifier (DTC)
 - Gradient Boosted Tree Classifier (GBT)
 
+The best model based on model accuracy and F1 score is saved [here](DecisionTree.model).
+
 ### More details
 The code can be found at [Sparkify.ipynb](Sparkify.ipynb).
 
