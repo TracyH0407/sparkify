@@ -12,6 +12,6 @@ To build our model, the modelling dataset was firstly transformed and normalised
 - Gradient Boosted Tree Classifier (GBT)
 
 ### More details
-The code can be found at Sparkify.ipynb.
+The code can be found at [Sparkify.ipynb](Sparkify.ipynb).
 
 The blog post about the the findings can be found at Medium Post.
