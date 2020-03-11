@@ -16,4 +16,4 @@ The best model based on model accuracy and F1 score is saved [here](DecisionTree
 ### More details
 The code can be found at [Sparkify.ipynb](Sparkify.ipynb).
 
-The blog post about the the findings can be found at the [blog](https://tracyh0407.github.io/Sparkify---Blog/).
+The blog post about the findings can be found at the [blog](https://tracyh0407.github.io/Sparkify---Blog/).
