@@ -14,4 +14,4 @@ To build our model, the modelling dataset was firstly transformed and normalised
 ### More details
 The code can be found at [Sparkify.ipynb](Sparkify.ipynb).
 
-The blog post about the the findings can be found at Medium Post.
+The blog post about the the findings can be found at the [blog](https://tracyh0407.github.io/Sparkify---Blog/).
